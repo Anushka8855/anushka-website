@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+/* starting from here */
+
+.avatar{
+  
+  color: red;
+}
+
+#user.name{
+  text-align: center;
+  color: aqua;
+}
